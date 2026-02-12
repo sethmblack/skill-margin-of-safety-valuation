@@ -1,11 +1,10 @@
 ---
 name: margin-of-safety-valuation
-description: Calculate a conservative purchase price that provides protection against
-  errors in judgment, unforeseen events, and the inherent uncertainty of valuation.
+description: Calculate a conservative purchase price that provides protection against errors in judgment, unforeseen events, and the inherent uncertainty of valuation.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - compression
 - margin-of-safety-valuation
